@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Agent-Class: com.stuartwarren.instrumentit.Agent
+Premain-Class: com.stuartwarren.instrumentit.Agent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
